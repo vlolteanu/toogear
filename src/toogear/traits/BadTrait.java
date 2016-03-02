@@ -18,7 +18,7 @@ public class BadTrait extends Trait
 		if (name.equals("Night or Cold Weather Only") && (other.name.equals("Nighttime Only") || other.name.equals("Cold Weather Only")))
 			return true;
 		
-		if (name.equals("Daytime or Rainy Only") && (other.equals("Daytime Only") || other.name.equals("Rainy Weather Only")))
+		if (name.equals("Daytime or Rainy Only") && (other.name.equals("Daytime Only") || other.name.equals("Rainy Weather Only")))
 			return true;
 		
 		return false;
