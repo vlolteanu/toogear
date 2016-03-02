@@ -1,5 +1,7 @@
 package toogear;
 
+import java.io.InputStream;
+
 public class ToOGear
 {
 
@@ -8,7 +10,7 @@ public class ToOGear
 	 */
 	public static void main(String[] args)
 	{
-		// TODO code application logic here
+		InputStream is = args.getClass().getResourceAsStream("resources/amulets.dat");
 	}
 	
 }
