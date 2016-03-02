@@ -45,4 +45,10 @@ public class Weapon extends Item
 		
 		return new Weapon(tokens[0], Integer.parseInt(tokens[1]), Integer.parseInt(tokens[2]), Integer.parseInt(tokens[3]), TraitFactory.get(tokens[5]), tokens[4]);
 	}
+
+	@Override
+	public String toString()
+	{
+		return name + "\t" + power + "\t" + rateOfFire + "\t" + ammoConsumption + "\t" + source + "\t" + type;
+	}
 }

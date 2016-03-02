@@ -18,4 +18,10 @@ public class Trait
 	{
 		return false;
 	}
+
+	@Override
+	public String toString()
+	{
+		return name;
+	}
 }

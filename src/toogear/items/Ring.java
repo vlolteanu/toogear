@@ -37,4 +37,17 @@ public class Ring extends Item
 		
 		return new Ring(tokens[0], parseTraits(tokens[1]), BadTraitFactory.get(tokens[2]), tokens[3]);
 	}
+
+	@Override
+	public String toString()
+	{
+		String ret = name + "\t";
+		
+		for (Trait trait: traits)
+			ret += trait + ",";
+		
+		ret += "\t" + badTrait + "\t" + source ;
+		
+		return ret;
+	}
 }

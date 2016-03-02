@@ -27,4 +27,17 @@ public class Amulet extends Item
 		
 		return new Amulet(tokens[0], parseTraits(tokens[1]), tokens[2]);
 	}
+
+	@Override
+	public String toString()
+	{
+		String ret = name + "\t";
+		
+		for (Trait trait: traits)
+			ret += trait + ",";
+		
+		ret += "\t" + source;
+		
+		return ret;
+	}
 }

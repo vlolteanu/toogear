@@ -9,7 +9,7 @@ import java.util.HashMap;
 
 public class BadTraitFactory
 {
-	protected static HashMap<String, BadTrait> traits;
+	protected static HashMap<String, BadTrait> traits = new HashMap<>();
 	
 	public static BadTrait get(String name)
 	{

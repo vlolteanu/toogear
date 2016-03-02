@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class TraitFactory
 {
-	protected static HashMap<String, Trait> traits;
+	protected static HashMap<String, Trait> traits = new HashMap<>();
 	
 	public static Trait get(String name)
 	{
