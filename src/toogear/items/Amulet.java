@@ -21,7 +21,7 @@ public class Amulet extends Item
 		return traits.containsAll(other.traits);
 	}
 	
-	public Amulet parse(String line)
+	public static Amulet parse(String line)
 	{
 		String tokens[] = line.split("\t");
 		

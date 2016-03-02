@@ -39,7 +39,7 @@ public class Weapon extends Item
 		return false;
 	}
 	
-	public Weapon parse(String line)
+	public static Weapon parse(String line)
 	{
 		String tokens[] = line.split("\t");
 		

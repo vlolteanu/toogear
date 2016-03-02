@@ -31,7 +31,7 @@ public class Ring extends Item
 		return traits.size() > other.traits.size();
 	}
 	
-	public Ring parse(String line)
+	public static Ring parse(String line)
 	{
 		String tokens[] = line.split("\t");
 		
