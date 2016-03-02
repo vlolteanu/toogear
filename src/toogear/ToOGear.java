@@ -92,9 +92,13 @@ public class ToOGear
 		for (Item item: amulets)
 			System.out.println(" * " + item);
 		
+		System.out.println();
+		
 		System.out.println("## Rings");
 		for (Item item: rings)
 			System.out.println(" * " + item);
+		
+		System.out.println();
 		
 		System.out.println("## Weapons");
 		for (Item item: weapons)

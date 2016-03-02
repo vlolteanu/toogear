@@ -36,7 +36,8 @@ The results so far can be found below.
  * Silver Ice Spirit of Heb	Regenerating Health,Regenerating Ammo,Ice Projectiles,Ice Bomb,	Rare
  * Silver Poison Spirit of Heb	Regenerating Health,Regenerating Ammo,Poisonous Projectiles,Poison Bomb,	Rare
  * Silver Spirit of Shen	Regenerating Ammo,Scatter Shot,Bomb Damage+,Weapon Damage+,	Rare
-## Rings
+
+ ## Rings
  * Agent Ring	Weapon Damage+,Bomb Damage+,		Hitman DLC
  * Bronze Ring of Khepri	Explosive Resistance,Bomb Radius+,		Rare
  * Frozen Band of Set's Favor	Torch Range+,Magic Shield Life+,Rate of Fire+,Weapon Damage+,Ice Armor,		Challenge Reward (Icy Death DLC)
@@ -56,7 +57,8 @@ The results so far can be found below.
  * Silver Ring of Sobek	Lightning Resistance,Speed+,Weapon Damage+,Poison Resistance,		Rare
  * Silver Ring of Strength	Weapon Damage+,Bomb Radius+,Defense+,Speed+,		Rare
  * Weakened Bronze Ring of Reach	Defense+,Bomb Radius+,Rate of Fire+,	Weapon Damage-	Uncommon
-## Weapons
+
+ ## Weapons
  * AR-06	3	8	7	Challenge Reward (Tomb of the Ferryman)	TBD
  * Assault Rifle	2	8	7	Pick-up (Tomb of the Silversmith)	TBD
  * Automatic Dart Rifle	2	8	7	Season Pass DLC	TBD
